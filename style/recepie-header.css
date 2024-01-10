@@ -11,15 +11,15 @@ body {
 }
 
 .header__pecan-pie {
-  background: url("/pictures/pecan-pie.jpg") no-repeat fixed center;
+  background: url("../pictures/pecan-pie.jpg") no-repeat fixed center;
   background-size: 100%;
 }
 .header__steak {
-  background: url("/pictures/steak.jpg") no-repeat fixed center;
+  background: url("../pictures/steak.jpg") no-repeat fixed center;
   background-size: 100%;
 }
 .header__brussel {
-  background: url("/pictures/brussels-sprouts.jpg") no-repeat fixed center;
+  background: url("../pictures/brussels-sprouts.jpg") no-repeat fixed center;
   background-size: 100%;
 }
 
