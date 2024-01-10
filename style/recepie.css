@@ -1,0 +1,38 @@
+body {
+  font-family: Roboto, Arial;
+}
+
+.recepie-title {
+  color: white;
+  text-align: center;
+  font-size:70px;
+  padding-top: 130px;
+}
+
+.card {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.card-title {
+  font-size: 25px;
+}
+
+
+.background-logo {
+  position: absolute;
+  left: 30%;
+  opacity: 0.1;
+  
+}
+
+.background-logo-kitchen {
+  transform: rotate(-36deg);
+  
+}
+
+.background-logo-burner {
+  top: 20px
+}

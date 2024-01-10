@@ -1,0 +1,25 @@
+body {
+  padding-top: 360px;
+}
+.header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 350px;
+  z-index: 1;
+}
+
+.header__pecan-pie {
+  background: url("/pictures/pecan-pie.jpg") no-repeat fixed center;
+  background-size: 100%;
+}
+.header__steak {
+  background: url("/pictures/steak.jpg") no-repeat fixed center;
+  background-size: 100%;
+}
+.header__brussel {
+  background: url("/pictures/brussels-sprouts.jpg") no-repeat fixed center;
+  background-size: 100%;
+}
+
